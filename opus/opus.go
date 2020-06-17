@@ -1,7 +1,7 @@
 package opus // import "github.com/talkkonnect/gumble/opus"
 
 import (
-	"github.com/talkkonnect/gopus"
+	"github.com/kaushik97/gopus"
 	"github.com/talkkonnect/gumble/gumble"
 )
 
