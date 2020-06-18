@@ -1,4 +1,4 @@
-package opus // import "github.com/talkkonnect/gumble/opus"
+package opus
 
 import (
 	"github.com/kaushik97/gopus"
