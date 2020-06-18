@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/talkkonnect/gumble/gumble"
+	"github.com/talkkonnect/gumble/gumbleutil"
 	"net"
 	"os"
 	"strconv"
